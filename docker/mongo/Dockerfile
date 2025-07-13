@@ -1,6 +1,6 @@
 FROM mongo:3.6
 
-LABEL maintainer="thepliable2@gmail.com"
+LABEL maintainer="ramalho.sit@gmail.com"
 
 COPY entrypoint.sh /usr/bin
 
